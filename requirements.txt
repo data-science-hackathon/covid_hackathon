@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+notebook
+pandas
+numpy
+simplejson
+matplotlib

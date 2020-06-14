@@ -1,0 +1,55 @@
+state,number_tests_performed,positive_tests,positive_tests_range_min,positive_tests_range_max
+New York,2852006,11-20%,0.11,0.2
+California,2183608,6-10%,0.06,0.1
+Florida,2065932,6-10%,0.06,0.1
+Massachusetts,1133190,11-20%,0.11,0.2
+Texas,1092254,6-10%,0.06,0.1
+New Jersey,1049209,11-20%,0.11,0.2
+Illinois,824716,11-20%,0.11,0.2
+Tennessee,753248,6-10%,0.06,0.1
+Michigan,651495,11-20%,0.11,0.2
+Georgia,589888,6-10%,0.06,0.1
+Indiana,552662,11-20%,0.11,0.2
+Pennsylvania,545439,11-20%,0.11,0.2
+Maryland,530551,11-20%,0.11,0.2
+Ohio,524076,6-10%,0.06,0.1
+Louisiana,486013,11-20%,0.11,0.2
+North Carolina,476887,11-20%,0.11,0.2
+Virginia,439855,11-20%,0.11,0.2
+Washington,430950,,,
+Utah,407819,0-5%,0.0,0.05
+Wisconsin,401498,6-10%,0.06,0.1
+Arizona,375973,6-10%,0.06,0.1
+Minnesota,375682,6-10%,0.06,0.1
+Alabama,346963,11-20%,0.11,0.2
+Missouri,326517,6-10%,0.06,0.1
+New Mexico,286867,0-5%,0.0,0.05
+Connecticut,280163,11-20%,0.11,0.2
+South Carolina,261363,6-10%,0.06,0.1
+Iowa,249525,6-10%,0.06,0.1
+Oklahoma,234586,0-5%,0.0,0.05
+Kentucky,234191,11-20%,0.11,0.2
+Nebraska,212286,11-20%,0.11,0.2
+Nevada,197520,6-10%,0.06,0.1
+Colorado,194642,6-10%,0.06,0.1
+Mississippi,186240,0-5%,0.0,0.05
+Rhode Island,177909,6-10%,0.06,0.1
+Arkansas,175379,6-10%,0.06,0.1
+Kansas,145330,6-10%,0.06,0.1
+Oregon,134649,,,
+West Virginia,121780,0-5%,0.0,0.05
+Idaho,88795,6-10%,0.06,0.1
+Alaska,87729,0-5%,0.0,0.05
+North Dakota,74791,,,
+Delaware,74027,11-20%,0.11,0.2
+Maine,70595,0-5%,0.0,0.05
+Hawaii,65312,0-5%,0.0,0.05
+District of Columbia,61874,11-20%,0.11,0.2
+Vermont,51618,0-5%,0.0,0.05
+Montana,49650,0-5%,0.0,0.05
+South Dakota,46128,6-10%,0.06,0.1
+Wyoming,42135,0-5%,0.0,0.05
+New Hampshire,37015,6-10%,0.06,0.1
+Puerto Rico,21030,6-10%,0.06,0.1
+Guam,6812,0-5%,0.0,0.05
+Virgin Islands,4352,0-5%,0.0,0.05
